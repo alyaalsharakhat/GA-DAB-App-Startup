@@ -135,5 +135,10 @@ GA-DAB-App-Strategy
 - Further Research
 - Developers Facility
 
+## Acknowledgements  
+This project was completed as part of a group collaboration with:
+- [Alya Alsharakhat](https://github.com/alyaalsharakhat)
+- [Ali Salman](https://github.com/3lawisd)
+- [Nora Faqeeh](https://github.com/noorafaqih172-source)
 
 
